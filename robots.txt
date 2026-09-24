@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eliasbenBethlehem.github.io/REPOSITORIO/sitemap.xml
